@@ -68,7 +68,7 @@ public class SwaggerConfig extends WebMvcConfigurationSupport implements Environ
 
   private ApiInfo apiInfo() {
     return new ApiInfoBuilder()
-        .title("微信支付Demo")
+        .title("微信支付Demo111")
         .description("微信支付演示接口")
         .contact(new Contact("Binary Wang", null, null))
         .license("Apache 2.0")
